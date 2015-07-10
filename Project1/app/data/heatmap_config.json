@@ -1,0 +1,330 @@
+{
+    "Title": "",
+    "Subtitle": "",
+    "DataFile": "",
+    "MinValue": "1",
+    "MaxValue": "8",
+    "NormalizeData": 0,
+    "TierColorization": 1,
+    "hStart": 120,
+    "sStart": 100,
+    "lStart": 30,
+    "hEnd": 30,
+    "sEnd": 100,
+    "lEnd": 50,
+    "Key": [
+        {
+            "Title": "Zone 1",
+            "value": 1,
+            "cellColor": "hsl(240,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 875], [4450, 875], [4450, 925], [4400, 925], [4400, 875]]]
+            }
+        },
+        {
+            "Title": "Zone 2",
+            "value": 2,
+            "cellColor": "hsl(210,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 950], [4450, 950], [4450, 1000], [4400, 1000], [4400, 950]]]
+            }
+        },
+        {
+            "Title": "Zone 3",
+            "value": 3,
+            "cellColor": "hsl(180,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1025], [4450, 1025], [4450, 1075], [4400, 1075], [4400, 1025]]]
+            }
+        },
+        {
+            "Title": "Zone 4",
+            "value": 4,
+            "cellColor": "hsl(150,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1100], [4450, 1100], [4450, 1150], [4400, 1150], [4400, 1100]]]
+            }
+        },
+        {
+            "Title": "Zone 5",
+            "value": 5,
+            "cellColor": "hsl(120,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1175], [4450, 1175], [4450, 1225], [4400, 1225], [4400, 1175]]]
+            }
+        },
+        {
+            "Title": "Zone 6",
+            "value": 6,
+            "cellColor": "hsl(90,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1250], [4450, 1250], [4450, 1300], [4400, 1300], [4400, 1250]]]
+            }
+        },
+        {
+            "Title": "Zone 7",
+            "value": 7,
+            "cellColor": "hsl(60,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1325], [4450, 1325], [4450, 1375], [4400, 1375], [4400, 1325]]]
+            }
+        },
+        {
+            "Title": "Zone 8",
+            "value": 8,
+            "cellColor": "hsl(30,100%,60%)",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[[4400, 1400], [4450, 1400], [4450, 1450], [4400, 1450], [4400, 1400]]]
+            }
+        }
+    ],
+    "showLabels": 1,
+    "Labels": [
+        {
+            "Title": "San Francisco",
+            "Zip": "94103"
+        },
+        {
+            "Title": "New York",
+            "Zip": "10022"
+        },
+        {
+            "Title": "Los Angeles",
+            "Zip": "90210"
+        },
+        {
+            "Title": "Endicia",
+            "Zip": "94306"
+        },
+        {
+            "Title": "Detroit",
+            "Zip": "48226"
+        },
+        {
+            "Title": "Boston",
+            "Zip": "02134"
+        },
+        {
+            "Title": "Memphis",
+            "Zip": "38103"
+        },
+        {
+            "Title": "Denver",
+            "Zip": "80203"
+        },
+        {
+            "Title": "Chicago",
+            "Zip": "60623"
+        },
+        {
+            "Title": "Houston",
+            "Zip": "77008"
+        },
+        {
+            "Title": "Philadelphia",
+            "Zip": "19144"
+        },
+        {
+            "Title": "Phoenix",
+            "Zip": "85003"
+        },
+        {
+            "Title": "San Antonio",
+            "Zip": "78205"
+        },
+        {
+            "Title": "San Diego",
+            "Zip": "92101"
+        },
+        {
+            "Title": "Dallas",
+            "Zip": "75201"
+        },
+        {
+            "Title": "Austin",
+            "Zip": "78701"
+        },
+        {
+            "Title": "Indianapolis",
+            "Zip": "46204"
+        },
+        {
+            "Title": "Jacksonville",
+            "Zip": "32202"
+        },
+        {
+            "Title": "Columbus",
+            "Zip": "43215"
+        },
+        {
+            "Title": "Charlotte",
+            "Zip": "28202"
+        },
+        {
+            "Title": "Seattle",
+            "Zip": "98004"
+        },
+        {
+            "Title": "Salt Lake City",
+            "Zip": "84111"
+        },
+        {
+            "Title": "Nashville",
+            "Zip": "37203"
+        },
+        {
+            "Title": "Portland",
+            "Zip": "97209"
+        },
+        {
+            "Title": "Miami",
+            "Zip": "33034"
+        },
+        {
+            "Title": "Tampa",
+            "Zip": "33602"
+        },
+        {
+            "Title": "Las Vegas",
+            "Zip": "89101"
+        },
+        {
+            "Title": "Raleigh",
+            "Zip": "27601"
+        },
+        {
+            "Title": "Atlanta",
+            "Zip": "30303"
+        },
+        {
+            "Title": "Charleston",
+            "Zip": "29405"
+        },
+        {
+            "Title": "Orlando",
+            "Zip": "32801"
+        },
+        {
+            "Title": "St. Louis",
+            "Zip": "63101"
+        },
+        {
+            "Title": "New Orleans",
+            "Zip": "70112"
+        },
+        {
+            "Title": "Minneapolis",
+            "Zip": "55405"
+        },
+        {
+            "Title": "Richmond",
+            "Zip": "23219"
+        }
+ ],
+    "transitionOverZips": 1,
+    "Transitions": [
+        {
+            "Zip": "94103",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "10022",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "90210",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "94306",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "RESET",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000"
+        },
+        {
+            "Zip": "02134",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "38103",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "80203",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "60623",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "77008",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "19144",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "85003",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "78205",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "92101",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "75201",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        },
+        {
+            "Zip": "78701",
+            "TransitionDuration": "2000",
+            "WaitTime": "2000",
+            "ZoomScale": "5"
+        }
+    ]
+}

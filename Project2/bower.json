@@ -1,0 +1,23 @@
+{
+  "name": "project2",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.0.7",
+    "json3": "~3.2.4",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.1.1",
+    "es5-shim": "~2.0.8",
+    "angular-resource": "~1.0.7",
+    "angular-cookies": "~1.0.7",
+    "angular-sanitize": "~1.0.7",
+    "angular-ui-router": "*",
+    "angular-smart-table": "2.1.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.0.7",
+    "angular-scenario": "~1.0.7",
+    "angular-smart-table": "~2.1.0",
+    "jquery": "~2.1.4",
+    "angular-bootstrap": "~0.13.0"
+  }
+}

@@ -1,0 +1,119 @@
+<!doctype html>
+<html class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+
+
+    <link rel="stylesheet" href="/Content/Marketing/com.endicia.apps.zonemap.main.css">
+
+</head>
+
+<body ng-app="bowerVersionApp">
+    <!--[if lt IE 7]>
+      <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+
+    <!-- Add your site or application content here -->
+    <div class="mainheader"><img src="/data/marketing/zonemap/Endicia_Logo_Pos_RGB_Medium.png"> | USPS <sup>&#174;</sup> Dynamic Zone Map</div>
+    <div class="subheader">Update the zip code to reflect USPS delivery zones based on your originating 5-digit ZIP code.</div>
+    <div class="message zipcodeinput">
+ <form class="form-inline" role="form" >
+        <div class="row">
+    <div class="input-group">
+            <input ng-model="box" type="text" size="10" maxlength="5" placeholder="94306" class="form-control zipCodeInput" whole-number-input >
+        <span class="input-group-btn">
+            <button class="btn btn-default" ng-click="setMaster(box)">Update</button>
+      </span>
+    </div>
+ </div>
+        </form>
+    </div>
+    <div class="container">
+        
+        <div ui-view>
+            <div heatmap-chart></div>
+        </div>
+    </div>
+    <div class="contactFooter">
+        Want more information? Contact <a href="mailto:sales@endicia.com">Endicia Sales</a>. <br />
+        For optimal print quality please select "Landscape" orientation.
+    </div>
+
+    <div class="footer" id="footer">
+        &#169; Endicia, a Newell Rubbermaid brand. All rights reserved.
+    </div>
+
+   
+ <script src="/scripts/marketing/com.endicia.apps.zonemap.scripts.js"></script>
+
+
+<script type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on the next lines. */
+    s.pageName = "Zone Map";
+    s.server = "";
+    s.channel = "Zone Map";
+    s.pageType = "";
+
+    s.prop1 = "";
+    s.prop2 = "";
+    s.prop3 = "";
+    s.prop4 = "";
+    s.prop5 = "";
+    s.prop6 = "";
+    s.prop7 = "";
+    s.prop8 = "";
+    s.prop9 = "";
+    s.prop10 = "";
+    s.prop11 = "";
+    s.prop12 = "";
+    s.prop13 = "";
+    s.prop14 = "";
+
+    /* Conversion Variables */
+    s.campaign = "";
+    s.state = "";
+    s.zip = "";
+    s.events = "";
+    s.products = "";
+    s.purchaseID = "";
+
+    s.eVar1 = "";
+    s.eVar2 = "";
+    s.eVar3 = "";
+    s.eVar4 = "";
+    s.eVar5 = "";
+    s.eVar6 = "";
+    s.eVar7 = "";
+    s.eVar8 = "";
+    s.eVar12 = "";
+    s.eVar13 = "";
+    s.eVar14 = "";
+
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code); //--></script>
+<script type="text/javascript">
+    adroll_adv_id = "HUNV6RD2YJEY5ODBB7ZXYN";
+    adroll_pix_id = "NLK76QGUDVFB5OQJTXAKQY";
+    (function () {
+        var oldonload = window.onload;
+        window.onload = function(){
+            __adroll_loaded=true;
+            var scr = document.createElement("script");
+            var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+            scr.setAttribute('async', 'true');
+            scr.type = "text/javascript";
+            scr.src = host + "/j/roundtrip.js";
+            ((document.getElementsByTagName('head') || [null])[0] ||
+             document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+            if(oldonload){oldonload()}};
+    }());
+</script>
+
+
+</body>
+
+</html>

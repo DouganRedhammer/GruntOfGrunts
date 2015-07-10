@@ -1,0 +1,19 @@
+{
+  "name": "GruntOfGrunts",
+  "version": "0.0.1",
+  "description": "Master Grunt File",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Daniel Franklin"
+  ],
+  "license": "wtfpl",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

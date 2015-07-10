@@ -1,0 +1,32 @@
+{
+  "title": "Master Grunt",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": "daniel franklin",
+  "license": "WTFPL",
+  "name": "gruntofgrunts",
+  "repository": "",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "connect": "2.7.x",
+    "grunt": "0.4.x",
+    "grunt-auto-install": "^0.2.4",
+    "grunt-bower-concat": "~0.3.0",
+    "grunt-contrib-clean": "0.4.x",
+    "grunt-contrib-compress": "0.4.x",
+    "grunt-contrib-concat": "0.1.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-handlebars": "0.5.x",
+    "grunt-contrib-htmlmin": "0.1.x",
+    "grunt-contrib-jshint": "0.2.x",
+    "grunt-contrib-qunit": "0.2.x",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-watch": "0.3.x",
+    "grunt-html": "0.3.x",
+    "grunt-preprocess": "2.0.x",
+    "grunt-svninfo": "~0.1.2",
+    "load-grunt-tasks": "~0.1.0",
+    "portscanner": "0.1.x",
+    "time-grunt": "~0.1.0"
+  }
+}

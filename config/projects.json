@@ -1,0 +1,12 @@
+ {
+    "projects": [
+        {
+            "project": "some project",
+            "location": "./Project1"
+        },
+        {
+            "project": "some other project",
+            "location": "./Project2"
+        }
+    ]
+}
