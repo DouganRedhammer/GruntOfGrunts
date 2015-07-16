@@ -15,6 +15,8 @@ module.exports = function (grunt) {
         
     })
     
+    //Load all js files in the tasks folder
     grunt.loadTasks('tasks');
+    
     grunt.registerTask('default', ['run-grunt'])
 };
